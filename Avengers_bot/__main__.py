@@ -74,7 +74,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/2bbe6208b097878d44d26.jpg"
+AVENGERS_IMG = "https://telegra.ph/file/154fa8e574df83c7f9df9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Avengers is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
@@ -221,7 +221,7 @@ def start(update: Update, context: CallbackContext):
                      ]]))
     else:
         update.effective_message.reply_text(
-            "I'm online!\n<b>Up since:</b> <code>{}</code>".format(uptime),
+            "Hey dear!I'm already online!\n<b>Up since:</b> <code>{}</code>".format(uptime),
             parse_mode=ParseMode.HTML)
 
 
