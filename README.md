@@ -28,7 +28,7 @@ For Using CMD LIKE
 
 
 For Using CMD LIKE
-/promote,/demote you must give perm to bot of adding new admins;
+/promote,/demote you must give perm to bot of adding new admins;<br>
 
 
 
