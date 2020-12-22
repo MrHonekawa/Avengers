@@ -1,6 +1,5 @@
 ![Avengers](https://telegra.ph/file/154fa8e574df83c7f9df9.jpg)
 # Avengers
-[![Maintained](https://img.sheilds.io/badge/badge/Maintained%3F-yes-green.svg)](https://github.com/MrHonekawa/Avengers/graphs/commit/activity)
 *Telegram Group Managing RoBot.*
 
 _TG BOT Used to manage your group:
