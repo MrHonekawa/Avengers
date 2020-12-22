@@ -26,8 +26,10 @@ For Using CMD LIKE
 /ban,/kick etc you must have perms of Kicking Members;
 
 
+
 For Using CMD LIKE
 /promote,/demote you must give perm to bot of adding new admins;
+
 
 
 For Using CMD LIKE
