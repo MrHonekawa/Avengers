@@ -65,11 +65,11 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/Avengers_bot
-RUN git clone -b shiken https://github.com/MrHonekawa/Avengers /root/Avengers_bot
-WORKDIR /root/Avengers_bot
+RUN git clone -b shiken https://github.com/MrHonekawa/Avengers /root/Avengers
+WORKDIR /root/Avengers
 
 #Copy config file to /root/Avengers/Avengers_bot
-COPY ./Avengers/sample_config.py ./Avengers_bot/config.py* /root/Avengers/Avengers_bot/
+COPY ./Avengers/sample_config.py ./Avengers/config.py* /root/Avengers/Avengers/
 
 ENV PATH="/home/bot/bin:$PATH"
 
