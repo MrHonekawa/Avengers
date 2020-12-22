@@ -1,9 +1,12 @@
 # Avengers
-A Telegram Group Managing RoBot.
+*Telegram Group Managing RoBot.*
 
-TG BOT Used to manage your group:
+_TG BOT Used to manage your group:
 Simpely add [Avengers](https://t.me/MarvelAvengersRoBot) to your group;
-And Give permittion to be admin to wanted to be working [Avengers](https://t.me/MarvelAvengersRoBot) correctly.
+And Give permittion to_ __be admin to wanted to be working [Avengers](https://t.me/MarvelAvengersRoBot) correctly.__
+
+
+*Identications*
 
 [SUPPORT Group](https://t.me/TGBotSupport)
 
@@ -14,6 +17,7 @@ And Give permittion to be admin to wanted to be working [Avengers](https://t.me/
 [Helper](https://t.me/FaucetMaker)
 
 [Supporter](https://t.me/Bcash_King)
+
 
 Perms:
 For Using CMD LIKE
