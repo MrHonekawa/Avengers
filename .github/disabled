@@ -34,4 +34,4 @@ jobs:
 
           buildoptions: --force-rm --compress --no-cache --squash
 
-          tags: "learn"
+          tags: "original"
