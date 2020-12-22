@@ -33,4 +33,4 @@ For Using CMD LIKE
 
 
 For Using CMD LIKE
-CONTROL u must be owner of the bot or dev (developer)
+CONTROL u must be owner of the bot or dev (developer)<br>
